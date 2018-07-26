@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  font-family: Merriweather, Arial, serif;
+}
+
+body {
+  display: inline;
+  margin: 0;
+  padding: 10%;
+  
+}
+
+img {
+  padding-bottom: 40px;
+}
+
+li {
+  display: inline;
+  padding: 40px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.header {
+  padding: 20px;
+
+}
+
+.main {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+
+#search {
+  display: inline;
+  width: 40%;
+  height: 50px; 
+  text-align: left; 
+  border: Gainsboro solid 2px;
+  border-radius: 10px;
+  margin-left: 25%;
+
+}
